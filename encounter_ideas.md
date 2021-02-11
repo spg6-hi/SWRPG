@@ -5,3 +5,5 @@
 * star destroyer hangar bay fight
 * imflitrating a pirate hideout
 * rancor fight
+* liberating a small village
+
