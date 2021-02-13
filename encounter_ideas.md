@@ -9,7 +9,7 @@
   * Stealing from the Pyke syndicate
   * Stealing from the Rebel Alliance
   * Stealing from the Empire
-  * Stealing from a custom client
+  * Stealing from a custom target
 * Hangar bay fight
   * Space station
   * Rebel cruiser
@@ -21,3 +21,5 @@
 * Helping the empire to find a target
   * Rebels
   * Other criminals
+* Fight with slavers
+  * Trandoshians
