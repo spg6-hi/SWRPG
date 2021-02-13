@@ -18,6 +18,6 @@
 * Rancor fight
 * Liberating a small village
 * Cantina fight
-* Helping the empire finding a target
+* Helping the empire to find a target
   * Rebels
   * Other criminals
