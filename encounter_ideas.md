@@ -1,13 +1,14 @@
 # Encounter ideas
 * Abandoned Platoon of seperatist battledroids from the clone wars era
-* escorting a spice convoy
-* hijacking a spice shipment
-  * stealing from the Pyke syndicate
-  * stealing from the Rebel Alliance
-  * stealing from the Empire
-  * stealing from custom crime lord
-* star destroyer hangar bay fight
-* imflitrating a pirate hideout
-* rancor fight
-* liberating a small village
+* Escorting a spice convoy
+* Hijacking a spice shipment
+  * Stealing from the Pyke syndicate
+  * Stealing from the Rebel Alliance
+  * Stealing from the Empire
+  * Stealing from custom crime lord
+* Star destroyer hangar bay fight
+* Inflitrating a pirate hideout
+* Rancor fight
+* Liberating a small village
+* Cantina fight
 
