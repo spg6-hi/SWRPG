@@ -15,5 +15,5 @@ Collection of assets and ideas for the FFG Star Wars Roleplaying games
   * a lot of assets for maps
   * custom battlemaps
   * modules
-  * quest/npc generator
+  * quest/weapon/npc generator
   * and other tools 
