@@ -4,12 +4,12 @@
   * Working for the Pyke syndicate
   * Working for the Rebel Alliance
   * Working for the Empire
-  * Working for custom crime lord
+  * Working for a custom client
 * Hijacking a spice shipment
   * Stealing from the Pyke syndicate
   * Stealing from the Rebel Alliance
   * Stealing from the Empire
-  * Stealing from custom crime lord
+  * Stealing from a custom client
 * Hangar bay fight
   * Space station
   * Rebel cruiser
