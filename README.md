@@ -9,7 +9,8 @@ Collection of assets and ideas for the FFG Star Wars Roleplaying games
 * [SWRPG subreddit](https://www.reddit.com/r/swrpg/)
   * good source of info on how to play the FFG Star Wars roleplaying games
 * [RPG Sessions](https://app.rpgsessions.com/char)
-  * good tools for making character/vehicle sheets and online play
+  * good tools for making character/vehicle sheets
+  * tools for online sessions
 * [thompsonpeters](http://thompsonpeters.com/eote/)
   * a lot of assets for maps
   * custom battlemaps
